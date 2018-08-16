@@ -1,0 +1,1120 @@
+
+ AVIVNET Log Entry : 22:42:35 יום חמישי 23 מרץ 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:19329/User/Register.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:45:41 יום חמישי 23 מרץ 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:19329/User/Register.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 23:01:13 יום חמישי 23 מרץ 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:19329/Panel/Admin/AddTeacherGrade.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 10:39:03 יום שישי 24 מרץ 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:1560/Panel/Student/Disciplines.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:04:40 יום שישי 24 מרץ 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:1560/Panel/Admin/Lessons.aspx?tgid=30
+-------------------------------
+
+ AVIVNET Log Entry : 20:49:42 יום שישי 24 מרץ 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\6052a59e\9822b7c9\App_WebReferences.l35_4yhx.1.cs:line 47
+   at CitiesService.updateDB() in c:\Users\Aviv\Desktop\Project10_vs17\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 17:10:36 יום רביעי 29 מרץ 2017
+  :
+  :System.Exception: Request format is unrecognized for URL unexpectedly ending in '/$metadata'. URL:http://localhost:19329/Services/TimeTableService.asmx/$metadata
+-------------------------------
+
+ AVIVNET Log Entry : 22:53:59 יום שלישי 04 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Teacher/Grade.aspx?gid=11
+-------------------------------
+
+ AVIVNET Log Entry : 20:34:58 יום רביעי 05 אפריל 2017
+  :
+  :System.Net.WebException: לא היתה אפשרות לפענח את השם המרוחק: 'www.loveburn.com'
+   ב-  System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   ב-  System.Net.HttpWebRequest.GetRequestStream()
+   ב-  System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   ב-  Population.WebServiceCities.GetAllCitiesFromIsrael() ב- c:\Users\Salon-PC\AppData\Local\Temp\Temporary ASP.NET Files\vs\6727a5ce\9e2621cc\App_WebReferences.phhifkk-.1.cs:שורה 47
+   ב-  CitiesService.updateDB() ב- c:\Users\Salon-PC\Desktop\pAviv\source\App_Code\Business_Logic\City\CitiesService.cs:שורה 68
+-------------------------------
+
+ AVIVNET Log Entry : 21:09:21 יום רביעי 05 אפריל 2017
+  :
+  :System.Exception: המערכת התריעה על חריג מסוג 'System.Web.HttpUnhandledException'. URL:http://localhost:60909/Panel/Admin/Allowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 21:10:48 יום רביעי 05 אפריל 2017
+  :
+  :System.Exception: תג השרת אינו מעוצב כהלכה. URL:http://localhost:60909/Panel/Admin/Allowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 21:16:34 יום רביעי 05 אפריל 2017
+  :
+  :System.Exception: המערכת התריעה על חריג מסוג 'System.Web.HttpUnhandledException'. URL:http://localhost:60909/Panel/Admin/Allowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:49:39 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:49:45 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:52:01 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 15:09:53 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:37 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: The process cannot access the file 'F:\Projects\Project10\source\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:37 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:37 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:38 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: The process cannot access the file 'F:\Projects\Project10\source\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:38 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 15:12:45 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: The process cannot access the file 'F:\Projects\Project10\source\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:6304/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 17:35:41 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 18:52:55 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 18:59:39 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 19:03:01 יום חמישי 06 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:08:31 שבת 08 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:15:48 שבת 08 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:35:29 שבת 08 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:36:54 שבת 08 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:42:58 שבת 08 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ImportAllowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 15:04:22 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable network 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:04:41 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:04:47 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:08:42 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:10:14 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:14:10 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:14:28 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 15:14:56 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: The remote name could not be resolved: 'www.loveburn.com'
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 18:02:28 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable network 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.thavfbir.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 18:05:51 יום שלישי 11 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 18:18:36 יום שלישי 11 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ChangeTable.aspx?tgid=11
+-------------------------------
+
+ AVIVNET Log Entry : 18:43:28 יום שלישי 11 אפריל 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.dzruh_fk.1.cs:line 47
+   at CitiesService.updateDB() in f:\Projects\Project10\source\App_Code\Business_Logic\City\CitiesService.cs:line 68
+-------------------------------
+
+ AVIVNET Log Entry : 19:03:57 יום שלישי 11 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\Panel\Admin\ChangeTable.aspx(43): error CS1061: 'ASP.panel_admin_changetable_aspx' does not contain a definition for 'Change_Date_TextChanged' and no extension method 'Change_Date_TextChanged' accepting a first argument of type 'ASP.panel_admin_changetable_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:6304/Panel/Admin/ChangeTable.aspx?tgid=12
+-------------------------------
+
+ AVIVNET Log Entry : 19:04:11 יום שלישי 11 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\Panel\Admin\ChangeTable.aspx(64): error CS1061: 'ASP.panel_admin_changetable_aspx' does not contain a definition for 'AddButtonChange_Click' and no extension method 'AddButtonChange_Click' accepting a first argument of type 'ASP.panel_admin_changetable_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:6304/Panel/Admin/ChangeTable.aspx?tgid=12
+-------------------------------
+
+ AVIVNET Log Entry : 22:09:22 יום שלישי 11 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/ChangeTable.aspx?tgid=10
+-------------------------------
+
+ AVIVNET Log Entry : 12:45:30 יום שני 17 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Teacher/GradeState.aspx?gid=11
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:51 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:54 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:55 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:55 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:56 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:56 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:57 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:57 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:57 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:58 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:59:58 יום שני 17 אפריל 2017
+  :
+  :System.Exception: f:\Projects\Project10\source\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_22rlirlv.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_Web_rrjaf4re.dll' URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 00:04:52 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 00:05:44 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:09 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:15 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:10:36 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:18:28 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:18:29 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:20:06 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:29:07 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:29:17 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:32:17 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:39:48 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:42:04 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:42:11 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:51:46 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 04:51:55 שבת 22 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Messages/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:16:02 יום חמישי 27 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:17:42 יום חמישי 27 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:19:15 יום חמישי 27 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 11:19:25 יום חמישי 27 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:33:37 שבת 29 אפריל 2017
+  :
+  :System.Exception: String was not recognized as a valid Boolean. URL:http://localhost:6724/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 16:41:12 שבת 29 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6724/Panel/Admin/Allowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:41:29 שבת 29 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6724/Panel/Admin/Allowed.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:04:29 שבת 29 אפריל 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6724/Panel/Admin/EditTgrade.aspx?tgid=12
+-------------------------------
+
+ AVIVNET Log Entry : 22:05:27 שבת 29 אפריל 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\a2d0d8ed\ef7027a\App_WebReferences.vqpcg0ww.1.cs:line 47
+   at Business_Logic.Cities.CitiesService.UpdateDb() in f:\Projects\Project10Beta\source\App_Code\Business_Logic\Cities\CitiesService.cs:line 91
+-------------------------------
+
+ AVIVNET Log Entry : 19:20:45 יום ראשון 30 אפריל 2017
+  :
+  :System.Exception: The Microsoft Access database engine cannot find the input table or query 'eduMembers'. Make sure it exists and that its name is spelled correctly. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 19:22:24 יום ראשון 30 אפריל 2017
+  :
+  :System.Exception: No value given for one or more required parameters. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 01:27:56 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:44:52 יום שני 01 מאי 2017
+  :
+  :System.Exception: The table 'eduMembers' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 14:06:24 יום שני 01 מאי 2017
+  :
+  :System.Exception: The table 'eduMembers' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 14:08:19 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Members.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 14:09:11 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Members.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 14:12:24 יום שני 01 מאי 2017
+  :
+  :System.InvalidCastException: The OleDbParameterCollection only accepts non-null OleDbParameter type objects, not String objects.
+   at System.Data.OleDb.OleDbParameterCollection.ValidateType(Object value)
+   at System.Data.OleDb.OleDbParameterCollection.Add(Object value)
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 506
+-------------------------------
+
+ AVIVNET Log Entry : 14:14:29 יום שני 01 מאי 2017
+  :
+  :System.InvalidCastException: The OleDbParameterCollection only accepts non-null OleDbParameter type objects, not String objects.
+   at System.Data.OleDb.OleDbParameterCollection.ValidateType(Object value)
+   at System.Data.OleDb.OleDbParameterCollection.Add(Object value)
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 506
+-------------------------------
+
+ AVIVNET Log Entry : 14:17:30 יום שני 01 מאי 2017
+  :
+  :System.OverflowException: Failed to convert parameter value from a Int32 to a Byte. ---> System.OverflowException: Value was either too large or too small for an unsigned byte.
+   at System.Convert.ToByte(Int32 value)
+   at System.Int32.System.IConvertible.ToByte(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.OleDb.OleDbParameter.CoerceValue(Object value, NativeDBType destinationType)
+   --- End of inner exception stack trace ---
+   at System.Data.OleDb.OleDbParameter.CoerceValue(Object value, NativeDBType destinationType)
+   at System.Data.OleDb.OleDbParameter.BindParameter(Int32 index, Bindings bindings)
+   at System.Data.OleDb.OleDbCommand.CreateAccessor()
+   at System.Data.OleDb.OleDbCommand.InitializeCommand(CommandBehavior behavior, Boolean throwifnotsupported)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 620
+-------------------------------
+
+ AVIVNET Log Entry : 16:14:55 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Import.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:18:41 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Import.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 19:57:51 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 19:58:02 יום שני 01 מאי 2017
+  :
+  :System.Exception: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:24857/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 19:58:09 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:01:00 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:48:11 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:48:15 יום שני 01 מאי 2017
+  :
+  :System.Exception: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:24857/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 22:48:18 יום שני 01 מאי 2017
+  :
+  :System.Exception: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:24857/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 22:49:59 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Import.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:55:55 יום שני 01 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:55:55 יום שני 01 מאי 2017
+  :
+  :System.Exception: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process. URL:http://localhost:24857/SYSTEM/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 22:56:48 יום שני 01 מאי 2017
+  :
+  :System.IO.IOException: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at Problem.AddLogDB(String error) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 64
+   at Problem.Log(Exception ex, String dataQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 40
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 83
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 600
+-------------------------------
+
+ AVIVNET Log Entry : 22:57:12 יום שני 01 מאי 2017
+  :
+  :System.IO.IOException: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at Problem.AddLogDB(String error) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 64
+   at Problem.Log(Exception ex, String dataQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 40
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 83
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 600
+-------------------------------
+
+ AVIVNET Log Entry : 22:57:18 יום שני 01 מאי 2017
+  :
+  :System.IO.IOException: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at Problem.AddLogDB(String error) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 64
+   at Problem.Log(Exception ex, String dataQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 40
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 83
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 600
+-------------------------------
+
+ AVIVNET Log Entry : 23:02:18 יום שני 01 מאי 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 23:02:30 יום שני 01 מאי 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 23:02:58 יום שני 01 מאי 2017
+  :
+  :System.Exception: Object reference not set to an instance of an object. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 23:05:04 יום שני 01 מאי 2017
+  :
+  :System.IO.IOException: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at Problem.AddLogDB(String error) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 64
+   at Problem.Log(Exception ex, String dataQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 40
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 83
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 596
+-------------------------------
+
+ AVIVNET Log Entry : 23:06:24 יום שני 01 מאי 2017
+  :
+  :System.IO.IOException: The process cannot access the file 'C:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Data\Logs\db_log.txt' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at System.IO.File.AppendText(String path)
+   at Problem.AddLogDB(String error) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 64
+   at Problem.Log(Exception ex, String dataQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Problem.cs:line 40
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 83
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 596
+-------------------------------
+
+ AVIVNET Log Entry : 23:31:42 יום שני 01 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 599
+-------------------------------
+
+ AVIVNET Log Entry : 23:32:11 יום שני 01 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 599
+-------------------------------
+
+ AVIVNET Log Entry : 23:33:36 יום שני 01 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 599
+-------------------------------
+
+ AVIVNET Log Entry : 14:24:29 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Teacher/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:40:35 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:41:12 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:41:45 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:42:00 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:26:02 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(144): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'cv_User_Picture_ServerValidate1' and no extension method 'cv_User_Picture_ServerValidate1' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:28:02 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(144): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'cv_User_Picture_OnServerValidate' and no extension method 'cv_User_Picture_OnServerValidate' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:28:03 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(144): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'cv_User_Picture_OnServerValidate' and no extension method 'cv_User_Picture_OnServerValidate' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:28:07 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(144): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'cv_User_Picture_OnServerValidate' and no extension method 'cv_User_Picture_OnServerValidate' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:28:07 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(144): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'cv_User_Picture_OnServerValidate' and no extension method 'cv_User_Picture_OnServerValidate' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:28:31 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:35:31 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:30:15 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:30:40 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:30:41 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:33:19 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\User\CreateSchool.aspx(51): error CS1061: 'ASP.user_createschool_aspx' does not contain a definition for 'prevKnown_OnClick' and no extension method 'prevKnown_OnClick' accepting a first argument of type 'ASP.user_createschool_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:35:37 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 23:48:47 יום שלישי 02 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Test.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 12:37:27 יום רביעי 03 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 12:37:52 יום רביעי 03 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 12:50:59 יום רביעי 03 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:06:42 יום חמישי 04 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 21:44:58 יום חמישי 04 מאי 2017
+  :
+  :System.Exception: Unexpected end of file looking for </asp:CustomValidator> tag. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:20:49 יום חמישי 04 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 23:04:27 יום חמישי 04 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/CreateSchool.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 08:22:53 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Data type mismatch in criteria expression. URL:http://localhost:24857/System/Multi.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 08:23:08 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Data type mismatch in criteria expression. URL:http://localhost:24857/System/Multi.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 12:41:45 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/PassTempPage.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 12:42:08 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/PassTempPage.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 12:48:12 יום שישי 05 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\Panel\Admin\PassTempPage.aspx(7): error CS1061: 'ASP.panel_admin_passtemppage_aspx' does not contain a definition for 'GridViewDiscplines_DataBound' and no extension method 'GridViewDiscplines_DataBound' accepting a first argument of type 'ASP.panel_admin_passtemppage_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/Panel/Admin/PassTempPage.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 16:22:30 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/Tgrades.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:46:06 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Activate.aspx?uid=5282
+-------------------------------
+
+ AVIVNET Log Entry : 20:47:35 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Activate.aspx?uid=5282
+-------------------------------
+
+ AVIVNET Log Entry : 20:48:28 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Activate.aspx?uid=5282
+-------------------------------
+
+ AVIVNET Log Entry : 20:52:27 יום שישי 05 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Activate.aspx?uid=5282
+-------------------------------
+
+ AVIVNET Log Entry : 01:34:14 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Admin/School.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:09 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/False/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:11 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/False/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:12 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Parent/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:13 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Parent/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:14 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Parent/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:15 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/Panel/Parent/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:27:51 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/False/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 17:43:27 יום ראשון 07 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Edit.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 13:40:28 יום שני 08 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\Panel\Admin\AddAllow.aspx.cs(20): error CS1525: Invalid expression term '}' URL:http://localhost:24857/Panel/Admin/AddAllow.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 14:09:32 יום שני 08 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:24857/User/Edit.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 15:27:17 יום שני 08 מאי 2017
+  :
+  :System.Exception: The table 'eduCities' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically. URL:http://localhost:24857/System/SysAuth.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 18:26:58 יום שני 08 מאי 2017
+  :
+  :System.Exception: Index was outside the bounds of the array. URL:http://localhost:24857/System/Import.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 18:28:15 יום שני 08 מאי 2017
+  :
+  :System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 709
+-------------------------------
+
+ AVIVNET Log Entry : 18:29:37 יום שני 08 מאי 2017
+  :
+  :System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 709
+-------------------------------
+
+ AVIVNET Log Entry : 18:33:39 יום שני 08 מאי 2017
+  :
+  :System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 709
+-------------------------------
+
+ AVIVNET Log Entry : 18:51:25 יום שני 08 מאי 2017
+  :
+  :System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 709
+-------------------------------
+
+ AVIVNET Log Entry : 18:54:44 יום שני 08 מאי 2017
+  :
+  :System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 709
+-------------------------------
+
+ AVIVNET Log Entry : 21:06:36 יום שני 08 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\Panel\Admin\AddAllow.aspx(70): error CS1061: 'ASP.panel_admin_addallow_aspx' does not contain a definition for 'cv_User_Majors_ServerValidate' and no extension method 'cv_User_Majors_ServerValidate' accepting a first argument of type 'ASP.panel_admin_addallow_aspx' could be found (are you missing a using directive or an assembly reference?) URL:http://localhost:24857/Panel/Admin/AddAllow.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 22:56:00 יום שני 08 מאי 2017
+  :
+  :System.ArgumentException: An item with the same key has already been added.
+   at System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   at System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   at System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 801
+-------------------------------
+
+ AVIVNET Log Entry : 22:56:01 יום שני 08 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 697
+-------------------------------
+
+ AVIVNET Log Entry : 00:04:48 יום שלישי 09 מאי 2017
+  :
+  :System.Exception: c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\MasterPage.master(7): error CS0433: The type 'ASP.controls_intersense_ascx' exists in both 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\607f61a0\93a63192\App_Web_wt2dcz2a.dll' and 'c:\Users\Aviv\AppData\Local\Temp\Temporary ASP.NET Files\vs\607f61a0\93a63192\App_Web_tmleofup.dll' URL:http://localhost:24857/Panel/Admin/Members.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 14:35:09 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/EditAllowed.aspx?uid=325045383
+-------------------------------
+
+ AVIVNET Log Entry : 14:38:16 שבת 13 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in f:\Projects\Project10\source\App_Code\Business_Logic\Members\MembersService.cs:line 814
+-------------------------------
+
+ AVIVNET Log Entry : 14:38:26 שבת 13 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in f:\Projects\Project10\source\App_Code\Business_Logic\Members\MembersService.cs:line 814
+-------------------------------
+
+ AVIVNET Log Entry : 14:38:38 שבת 13 מאי 2017
+  :
+  :System.NullReferenceException: Object reference not set to an instance of an object.
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in f:\Projects\Project10\source\App_Code\Business_Logic\Members\MembersService.cs:line 814
+-------------------------------
+
+ AVIVNET Log Entry : 16:21:13 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Admin/Lessons.aspx?tgid=36
+-------------------------------
+
+ AVIVNET Log Entry : 20:08:20 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/User/Activate.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:11:39 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/User/Activate.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:17:11 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Student/default.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 20:17:53 שבת 13 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:6304/Panel/Student/TimeTable.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 02:09:36 יום שני 22 מאי 2017
+  :
+  :System.InvalidOperationException: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+   at System.Data.OleDb.OleDbServicesWrapper.GetDataSource(OleDbConnectionString constr, DataSourceWrapper& datasrcWrapper)
+   at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at Connect.GetData(String sqlQuery, String tableName) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 23
+   at Business_Logic.Cities.CitiesService.UpdateDb() in f:\Projects\Project10\source\App_Code\Business_Logic\Cities\CitiesService.cs:line 92
+-------------------------------
+
+ AVIVNET Log Entry : 02:10:42 יום שני 22 מאי 2017
+  :
+  :System.Exception: The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine. URL:http://localhost:63674/System/Multi.ashx
+-------------------------------
+
+ AVIVNET Log Entry : 13:24:56 יום שלישי 23 מאי 2017
+  :
+  :System.Exception: Exception of type 'System.Web.HttpUnhandledException' was thrown. URL:http://localhost:63674/Panel/Admin/School.aspx
+-------------------------------
+
+ AVIVNET Log Entry : 19:14:02 יום שלישי 23 מאי 2017
+  :
+  :System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 80.244.168.44:80
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at Population.WebServiceCities.GetAllCitiesFromIsrael() in c:\Users\avivb\AppData\Local\Temp\Temporary ASP.NET Files\vs\0f0c60be\484ad84e\App_WebReferences.3_byixi3.1.cs:line 47
+   at Business_Logic.Cities.CitiesService.UpdateDb() in f:\Projects\Project10\source\App_Code\Business_Logic\Cities\CitiesService.cs:line 91
+-------------------------------

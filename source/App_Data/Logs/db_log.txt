@@ -1,0 +1,1068 @@
+
+ AVIVNET Log Entry : 23:48:17 יום שלישי 02 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:30 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:30 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:31 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:31 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:32 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:32 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:32 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:32 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:32 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:38 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:39 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:40 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:49 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:07:55 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:30 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''אבו ג'ווייעד (שבט)')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('אבו ג'ווייעד (שבט)')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:43 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:44 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:45 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'ת')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('ג'ת')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:46 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''מג'ד אל-כרום')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('מג'ד אל-כרום')
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:47 יום רביעי 03 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''אבו ג'ווייעד (שבט)')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduCities (eduCity) VALUES('אבו ג'ווייעד (שבט)')
+-------------------------------
+
+ AVIVNET Log Entry : 20:39:17 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error in INSERT INTO statement.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO nhsSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUE (1598098008,'-1', '/User/SchoolData/1b5f9j8i0a9j8i0a0a8i/image_8.png')
+-------------------------------
+
+ AVIVNET Log Entry : 20:40:51 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): Could not find output table 'nhsSchools'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO nhsSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (1516625536,'-1', '')
+-------------------------------
+
+ AVIVNET Log Entry : 20:41:45 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): Could not find output table 'nhsSchools'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO nhsSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (825076362,'-1', '/User/SchoolData/8i2c5f0a7h6g3d6g2c/tag1.png')
+-------------------------------
+
+ AVIVNET Log Entry : 21:19:01 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (318055,'איבטין', '')
+-------------------------------
+
+ AVIVNET Log Entry : 21:43:38 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (148080,'מקיף אבו גוש', '')
+-------------------------------
+
+ AVIVNET Log Entry : 22:25:04 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''אלתסאמוח ע"ש כמאל ג'ונבלאט', '')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (217299,'אלתסאמוח ע"ש כמאל ג'ונבלאט', '')
+-------------------------------
+
+ AVIVNET Log Entry : 22:26:19 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''אלתסאמוח ע"ש כמאל ג'ונבלאט', '')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduSchools (eduSchoolID,eduSchoolName,eduSchoolLogo) VALUES (217299,'אלתסאמוח ע"ש כמאל ג'ונבלאט', '')
+-------------------------------
+
+ AVIVNET Log Entry : 23:03:31 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduGrades'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduMembers (eduFirstName,eduLastName,eduPass,eduType,eduMail,eduID,eduGender,eduGradeID,eduPicture,eduBorn,eduDateRegister,eduCityID,eduActive,eduSchoolID) VALUES('לובה','קוסמן','7hZQt4I89gUhbFD4cZMwxS2FcfmMzJpAGR/vqJcmsHM=:1lWknUc3Od0y7REbbMZ8+FPi2Dqbbi/BAu4Ooeq6qVL7iUv0cjOw+M8DHw3ByxNjuYK5+G7PhXpSWdijfvxcwA==:I89gUhbFD4c','a','','302201058','f','0','/Content/graphics/img/default.png','1999-03-14 0:00:00','2017-05-04 23:03:31',246,'Yes',112094)
+-------------------------------
+
+ AVIVNET Log Entry : 23:06:57 יום חמישי 04 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduGrades'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduMembers (eduFirstName,eduLastName,eduPass,eduType,eduMail,eduID,eduGender,eduGradeID,eduPicture,eduBorn,eduDateRegister,eduCityID,eduActive,eduSchoolID) VALUES('לובה','קוסמן','uvbvDBNl5qhwJVwsZfrkoBPkT13t76BMKXU+GtZlqfQ=:m+9nWCHqSS7UlLBFMPKF7Ih9SwmmvyDDY6lfdFa8zFSSzpjGveGienVJBKIyTcMiJRlrstMvhh4qsIfEPuGDBw==:Nl5qhwJVwsZ','a','','302201058','f','0','/Content/graphics/img/default.png','1999-03-14 0:00:00','2017-05-04 23:06:57',246,'Yes',112094)
+-------------------------------
+
+ AVIVNET Log Entry : 16:32:49 יום שישי 05 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduLessons' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTeacherGrades WHERE eduTgradeID=31
+-------------------------------
+
+ AVIVNET Log Entry : 16:32:52 יום שישי 05 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduLessons' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTeacherGrades WHERE eduTgradeID=31
+-------------------------------
+
+ AVIVNET Log Entry : 15:24:47 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The table 'eduCities' is already opened exclusively by another user, or it is already open through the user interface and cannot be manipulated programmatically.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at Connect.GetData(String sqlQuery, String tableName) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 27
+   at Business_Logic.Cities.CitiesService.UpdateDb() in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Cities\CitiesService.cs:line 92
+-------------------------------
+
+ AVIVNET Log Entry : 18:57:30 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 800
+-------------------------------
+
+ AVIVNET Log Entry : 18:58:30 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 800
+-------------------------------
+
+ AVIVNET Log Entry : 21:25:46 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 21:25:46 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 21:32:29 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 22:29:54 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine cannot find the input table or query 'eduMajorsTeacherGrades'. Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at Connect.GetData(String sqlQuery, String tableName) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 27
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 819
+-------------------------------
+
+ AVIVNET Log Entry : 22:30:17 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine cannot find the input table or query 'eduMajorsTeacherGrades'. Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at Connect.GetData(String sqlQuery, String tableName) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 27
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 819
+-------------------------------
+
+ AVIVNET Log Entry : 22:33:47 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine cannot find the input table or query 'eduMajorsTeacherGrades'. Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   at Connect.GetData(String sqlQuery, String tableName) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\DataBase\Connect.cs:line 27
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 819
+-------------------------------
+
+ AVIVNET Log Entry : 22:35:23 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 22:35:53 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 22:43:05 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 22:50:12 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 374
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 799
+-------------------------------
+
+ AVIVNET Log Entry : 23:00:06 יום שני 08 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduMembers'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.SetChildren(Int32 uid, List`1 kidList) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 375
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in c:\Users\Aviv\Documents\Visual Studio 2017\WebSites\EduNet\App_Code\Business_Logic\Members\MembersService.cs:line 845
+-------------------------------
+
+ AVIVNET Log Entry : 12:26:49 שבת 13 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E07): Data type mismatch in criteria expression.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduSchools (eduSchoolID,eduSchoolName,eduSchoolLogo,eduOfficial) VALUES (444737,'נחשון למדעים טכנולוגיה ואומנות', '/User/SchoolData/4e4e4e7h3d7h/logo.png','Yes')
+-------------------------------
+
+ AVIVNET Log Entry : 12:28:18 שבת 13 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduSchools'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduMembers (eduFirstName,eduLastName,eduPass,eduType,eduMail,eduID,eduGender,eduGradeID,eduPicture,eduBorn,eduDateRegister,eduCityID,eduActive,eduSchoolID) VALUES('חניתה','קרשטיין','k7sMzz/fZ/sfTsj3CItdswT9CeE2z/TVr2eWUuzPiIQ=:higAMMx45OtAxkPddsFqoiAQQctwXeaigrV4J67YiafMmyfpPinYGPjUFC0Ay8MK5UjjxFlgFn87m+vn/EOIIg==:/fZ/sfTsj3C','a','','314711045','f','33','/Content/graphics/img/default.png','1968-05-14 0:00:00','2017-05-13 12:28:18',2710,'Yes',444737)
+-------------------------------
+
+ AVIVNET Log Entry : 14:47:13 שבת 13 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduCities'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduMembers (eduFirstName,eduLastName,eduID,eduActive,eduType) VALUES ('אביב','בר','325130243','Wait','a')
+-------------------------------
+
+ AVIVNET Log Entry : 14:47:21 שבת 13 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): You cannot add or change a record because a related record is required in table 'eduCities'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= INSERT INTO eduMembers (eduFirstName,eduLastName,eduID,eduActive,eduType) VALUES ('אבי','זרדב','318949567','Wait','a')
+-------------------------------
+
+ AVIVNET Log Entry : 14:04:18 יום ראשון 14 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduMajorsTgrades' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTeacherGrades WHERE eduTgradeID=37
+-------------------------------
+
+ AVIVNET Log Entry : 14:06:32 יום ראשון 14 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine cannot find the input table or query 'eduTgradesMajors'. Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTgradesMajors WHERE eduTgradeID=37
+-------------------------------
+
+ AVIVNET Log Entry : 14:06:37 יום ראשון 14 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E37): The Microsoft Access database engine cannot find the input table or query 'eduTgradesMajors'. Make sure it exists and that its name is spelled correctly.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTgradesMajors WHERE eduTgradeID=37
+-------------------------------
+
+ AVIVNET Log Entry : 00:08:02 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduScores' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduExams WHERE eduTgradeID=34
+-------------------------------
+
+ AVIVNET Log Entry : 00:21:40 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E10): No value given for one or more required parameters.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduScores WHERE eduTgradeID=39
+-------------------------------
+
+ AVIVNET Log Entry : 00:21:45 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E10): No value given for one or more required parameters.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduScores WHERE eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:27:16 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression 'eduScores.eduExamID=eduExams.eduExamID eduExamID.eduTgradeID=38'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduExams,eduScores WHERE eduScores.eduExamID=eduExams.eduExamID eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:27:21 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression 'eduScores.eduExamID=eduExams.eduExamID eduExamID.eduTgradeID=38'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduExams,eduScores WHERE eduScores.eduExamID=eduExams.eduExamID eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:28:19 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): Specify the table containing the records you want to delete.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduExams,eduScores WHERE eduScores.eduExamID=eduExams.eduExamID AND eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:32:09 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error in FROM clause.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduExams,eduScores INNER JOIN eduScores WHERE eduScores.eduExamID=eduExams.eduExamID AND eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:33:46 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error in FROM clause.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE eduExams,eduScores FROM eduExams INNER JOIN eduScores WHERE eduScores.eduExamID=eduExams.eduExamID AND eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:35:07 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error in FROM clause.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE eduExams,eduScores FROM eduExams INNER JOIN eduScores WHERE eduScores.eduExamID=eduExams.eduExamID AND eduExamID.eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:41:51 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduLessons' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTeacherGrades WHERE eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 00:42:22 יום שני 15 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80004005): The record cannot be deleted or changed because table 'eduLessons' includes related records.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Connect.InsertUpdateDelete(String sqlQuery) in f:\Projects\Project10\source\App_Code\DataBase\Connect.cs:line 76
+ QUERY= DELETE FROM eduTeacherGrades WHERE eduTgradeID=38
+-------------------------------
+
+ AVIVNET Log Entry : 02:17:14 יום שני 22 מאי 2017
+  :
+  :System.Data.OleDb.OleDbException (0x80040E14): Syntax error (missing operator) in query expression ''ג'קי','דיש','208082107','s',29,'054-4780234',#1999-05-22#,'f',2784,'Wait',444737,'/Content/graphics/img/default.png')'.
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   at System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   at System.Data.OleDb.OleDbCommand.ExecuteNonQuery()
+   at Business_Logic.Members.MemberService.AddAllowed(DataTable dt) in f:\Projects\Project10\source\App_Code\Business_Logic\Members\MembersService.cs:line 834
+-------------------------------
